@@ -13,7 +13,7 @@ const introdata = {
         fourth: "I am a cybersecurity enthusiast"
     },
     description: "As a Junior Software Developer and Cybersecurity Enthusiast, I have a passion for building secure and efficient software solutions. In the past, I have gained experience in software development through personal projects. I have worked on developing web applications and mobile apps. This has allowed me to develop a strong foundation in front-end languages include HTML, CSS and JavaScript, Scripting language include Php, Progamming Languages Kotlin and SQL & NoSQL as well as frameworks like Bootsrap and libraries like React JS.",
-    your_img_url: "https://lh3.googleusercontent.com/pw/AIL4fc-ezmCQpLl4BMa8eiHCqyq1Wv-iT4cUybd0pWgAuFX0K7imola5jmYJrGoqYq3K19dlGGFk-bHClbBqrmWgROiD05DjjNtXmoWncS2DkV1Dqvk5SVu7drsiZBcNa5YmPdcoFO3S-QMEj8Uv1hrlKPijgtpeH-FwR5bFQvZ07oiVJZm6YlAmIV-DuG27IU4EL8EkcXlcm3Xvx7-ve5j8-AhUErYuTvYZvm9gKIPBmEyWCCnPOKJDVOCEAD7JN1C5GWnHt5I4hjXti6R0WW9slIvNZ1NbhzN9Amj37mylF38g5xiKldY_NAUbVi4vVHo8LhG9bl4-lZOUkbJRKXXRrgTO8lSMI4ABl7Em60i7G3IGXb0HhWChRXk_T2tgfJVtrAdIr3hunOWWgjfzuhRr33kUt-P8i0ggHFY9ryA4AxVzR_i3cSm2JQJnjDlw8df7lzAOAY8DiuKdkbxYa1YdniiQJVknco7Ee7Zfc0u2sKRoVDTBnHlHfYDxjbyBOmf3vxl1JZnyPd3jdZCF0D58LRQTKqafMQfZDmRm4ZWVTOJfHDCHl9DMP4Ya4x9-G4F1XL6nnbVzhlkcIIfHITAcDpQZClBQdUlg-gKJaecnI4lDrjbXjlbRcU60ARG2-hQxIuRKO4vTL7nDcqVwTqlShMQaFtirtXfTUB1v7LcwI3-pVvs4ISXjxHlklAgN4I0a3uHcUe3YQ-GvawQXItwOc8o7iTZd1su7ase7Oxg4MOnhnaHoLKtVaJvL7a0cdZxOpy2xFKG5325ioBn2hraPBUIfDKHGFxvuO8Wra9vvYKD52DCnDJVgJfjq5OOSkghaVmUKEWxohXeR33EGwFD9TVJVUwQ_LKoWwHg5EEZSwicNKBibbNX4GQUePLcd8MezWaxDQPtcowmmHKI0RepGBQ=w575-h640-s-no?authuser=0",
+    your_img_url: "../../assets/images/passport",
 };
 
 const dataabout = {
