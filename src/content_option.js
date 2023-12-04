@@ -78,49 +78,29 @@ const dataportfolio = [{
     {
         img: "../../assets/images/onegym.png",
         description: "a Car Rental Website",
-        link: "https://github.com/MarciiKai/FreeCode",
+        link: "https://github.com/MarciiKai/WheelsCars",
     },
     {
         img: "../../assets/images/onegym.png",
         description: "Online Streaming Site",
-        link: "https://github.com/MarciiKai/FreeCode",
+        link: "https://github.com/MarciiKai/netmovies",
     },
     {
         img: "../../assets/images/onegym.png",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "https://github.com/MarciiKai/FreeCode",
+        description: "A church Application ",
+        link: "https://github.com/MarciiKai/ack_waithaka",
     },
 
     {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "https://github.com/MarciiKai/FreeCode",
+        img: "../../assets/images/onegym.png",
+        description: "A sales application to rate sales people",
+        link: "https://github.com/MarciiKai/SalesLeads",
     },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "https://github.com/MarciiKai/FreeCode",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/550/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
+        img: "../../assets/images/onegym.png",
+        description: "Kai Portfolio",
+        link: "https://github.com/MarciiKai/KaiPorfolio",
+    }
 ];
 
 const contactConfig = {
