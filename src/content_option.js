@@ -49,60 +49,57 @@ const skills = [{
     },
 ];
 
-const services = [{
-        title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
+const services = [
     {
         title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "Discover my latest Mobile Apps that cater to your every need. Whether you're on the go or relaxing at home, my apps redefine convenience and functionality, ensuring a seamless experience for every user.",
     },
     {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Web Development",
+        description: "Embark on a journey through my diverse web development projects. From sleek designs to robust functionalities, my web development solutions redefine online experiences, ensuring a dynamic and engaging presence for every user.",
     },
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "../../assets/images/onegym.png",
+        description: "Health and fitness Website",
+        link: "https://github.com/MarciiKai/OneGym",
     },
     {
-        img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "../../assets/images/onegym.png",
+        description: "React Js Weather App ",
+        link: "https://github.com/MarciiKai/tours-guide",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "../../assets/images/onegym.png",
+        description: "Free Code Camp ",
+        link: "https://github.com/MarciiKai/FreeCode",
     },
     {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "../../assets/images/onegym.png",
+        description: "a Car Rental Website",
+        link: "https://github.com/MarciiKai/FreeCode",
     },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "../../assets/images/onegym.png",
+        description: "Online Streaming Site",
+        link: "https://github.com/MarciiKai/FreeCode",
     },
     {
-        img: "https://picsum.photos/400/700/?grayscale",
+        img: "../../assets/images/onegym.png",
         description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        link: "https://github.com/MarciiKai/FreeCode",
     },
 
     {
         img: "https://picsum.photos/400/600/?grayscale",
         description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        link: "https://github.com/MarciiKai/FreeCode",
     },
     {
         img: "https://picsum.photos/400/300/?grayscale",
         description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        link: "https://github.com/MarciiKai/FreeCode",
     },
     {
         img: "https://picsum.photos/400/?grayscale",
