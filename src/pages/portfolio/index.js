@@ -27,7 +27,7 @@ export const Portfolio = () => {
                 <div className="content">
                   <p>{data.description}</p>
                   <a
-                    href={data.githubUrl}
+                    href={data.dataportfolio}
                     target="_blank"
                     rel="noopener noreferrer"
                   >

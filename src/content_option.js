@@ -36,17 +36,27 @@ const skills = [{
         value: 85,
     },
     {
+        name: "Bootstrap",
+        value: 85,
+    },
+    {
         name: "Javascript",
         value: 80,
+    },
+    {
+        name: "Kotlin",
+        value: 80,
+    },
+    {
+        name: "Flutter",
+        value: 65,
     },
     {
         name: "React",
         value: 60,
     },
-    {
-        name: "Kotlin",
-        value: 85,
-    },
+   
+   
 ];
 
 const services = [
@@ -107,8 +117,6 @@ const contactConfig = {
     YOUR_EMAIL: "kai.marcii2000@gmail.com",
     YOUR_FONE: "(+254) 797346811",
     description: "Junior Software Developer",
-    // creat an emailjs.com account 
-    // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
     YOUR_TEMPLATE_ID: "template_id",
     YOUR_USER_ID: "user_id",
