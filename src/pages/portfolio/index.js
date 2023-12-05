@@ -27,10 +27,10 @@ export const Portfolio = () => {
                 <div className="content">
                   <p>{data.description}</p>
                   <a
-                    href={data.link}
-                    target="https://github.com/MarciiKai?tab=repositories"
-                    rel="https://github.com/MarciiKai?tab=repositories"
-                  >
+                href={data.link}
+                target="_blank"
+                rel="noopener noreferrer"
+            >
                     View on GitHub
                   </a>
                 </div>
