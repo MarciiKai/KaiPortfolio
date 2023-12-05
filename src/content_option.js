@@ -12,7 +12,7 @@ const introdata = {
         third: "I develop mobile apps",
         fourth: "I am a cybersecurity enthusiast"
     },
-    description: "As a Junior Software Developer and Cybersecurity Enthusiast, I have a passion for building secure and efficient software solutions. In the past, I have gained experience in software development through personal projects. I have worked on developing web applications and mobile apps. This has allowed me to develop a strong foundation in front-end languages include HTML, CSS and JavaScript, Scripting language include Php, Progamming Languages Kotlin and SQL & NoSQL as well as frameworks like Bootsrap and libraries like React JS.",
+    description: "Greetings! I'm a Junior Software Developer and Cybersecurity Enthusiast on a mission to redefine the digital landscape. With a knack for crafting secure and efficient software solutions, I've delved into the realms of web development and mobile apps. My code tells a story of creativity, precision, and a deep love for technology. Join me as I weave innovation into every line of code, creating a digital experience that goes beyond expectations.",
     your_img_url: "../../assets/images/passport",
 };
 
