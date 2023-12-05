@@ -77,12 +77,12 @@ const dataportfolio = [{
         link: "https://github.com/MarciiKai/OneGym",
     },
     {
-        img:  "assets/images/onegym.png",
+        img:  "assets/images/tour.png",
         description: "React Js Weather App ",
         link: "https://github.com/MarciiKai/tour-guide",
     },
     {
-        img:  "assets/images/free.png",
+        img:  "assets/images/freecode.png",
         description: "Free Code Camp ",
         link: "https://github.com/MarciiKai/FreeCode",
     },
@@ -92,7 +92,7 @@ const dataportfolio = [{
         link: "https://github.com/MarciiKai/Wheels-Cars ",
     },
     {
-        img:  "assets/images/onegym.png",
+        img:  "assets/images/net.png",
         description: "Online Streaming Site",
         link: "https://github.com/MarciiKai/netmovies",
     },
