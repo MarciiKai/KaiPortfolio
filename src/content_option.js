@@ -82,12 +82,12 @@ const dataportfolio = [{
         link: "https://github.com/MarciiKai/tour-guide",
     },
     {
-        img:  "assets/images/onegym.png",
+        img:  "assets/images/free.png",
         description: "Free Code Camp ",
         link: "https://github.com/MarciiKai/FreeCode",
     },
     {
-        img:  "assets/images/onegym.png",
+        img:  "assets/images/wheels.png",
         description: "a Car Rental Website",
         link: "https://github.com/MarciiKai/Wheels-Cars ",
     },
@@ -97,18 +97,18 @@ const dataportfolio = [{
         link: "https://github.com/MarciiKai/netmovies",
     },
     {
-        img:  "assets/images/onegym.png",
+        img:  "assets/images/ack.png",
         description: "A church Application ",
         link: "https://github.com/MarciiKai/ack_waithaka",
     },
 
     {
-        img:  "assets/images/onegym.png",
+        img:  "assets/images/sales.png",
         description: "A sales application to rate sales people",
         link: "https://github.com/MarciiKai/SalesLeads",
     },
     {
-        img:  "assets/images/onegym.png",
+        img:  "assets/images/kai.png",
         description: "Kai Portfolio",
         link: "https://github.com/MarciiKai/KaiPortfolio ",
     }

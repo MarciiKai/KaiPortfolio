@@ -23,7 +23,8 @@ export const Portfolio = () => {
           {dataportfolio.map((data, i) => {
             return (
               <div key={i} className="po_item">
-              <img src={require(`../../${data.img}`).default} alt="" />
+              <img src={process.env.PUBLIC_URL + '/' + data.img}
+               alt={data.description}/>
                 <div className="content">
                   <p>{data.description}</p>
                   <a
@@ -34,7 +35,7 @@ export const Portfolio = () => {
                     View on GitHub
                   </a>
                 </div>
-              </div>
+                </div>
             );
           })}
         </div>
