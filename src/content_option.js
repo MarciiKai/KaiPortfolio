@@ -43,17 +43,18 @@ const skills = [{
         name: "Javascript",
         value: 80,
     },
+   
     {
         name: "Kotlin",
         value: 80,
     },
     {
-        name: "Flutter",
-        value: 65,
+        name: "React",
+        value: 70,
     },
     {
-        name: "React",
-        value: 60,
+        name: "Flutter",
+        value: 65,
     },
    
    
