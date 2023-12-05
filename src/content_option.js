@@ -72,43 +72,43 @@ const services = [
 ];
 
 const dataportfolio = [{
-        img: "../../assets/images/onegym.png",
+        img: "onegym.png",
         description: "Health and fitness Website",
         link: "https://github.com/MarciiKai/OneGym",
     },
     {
-        img: "../../assets/images/onegym.png",
+        img: "onegym.png",
         description: "React Js Weather App ",
         link: "https://github.com/MarciiKai/tour-guide",
     },
     {
-        img: "../../assets/images/onegym.png",
+        img: "onegym.png",
         description: "Free Code Camp ",
         link: "https://github.com/MarciiKai/FreeCode",
     },
     {
-        img: "../../assets/images/onegym.png",
+        img: "onegym.png",
         description: "a Car Rental Website",
         link: "https://github.com/MarciiKai/Wheels-Cars ",
     },
     {
-        img: "../../assets/images/onegym.png",
+        img: "onegym.png",
         description: "Online Streaming Site",
         link: "https://github.com/MarciiKai/netmovies",
     },
     {
-        img: "../../assets/images/onegym.png",
+        img: "onegym.png",
         description: "A church Application ",
         link: "https://github.com/MarciiKai/ack_waithaka",
     },
 
     {
-        img: "../../assets/images/onegym.png",
+        img: "onegym.png",
         description: "A sales application to rate sales people",
         link: "https://github.com/MarciiKai/SalesLeads",
     },
     {
-        img: "../../assets/images/onegym.png",
+        img: "onegym.png",
         description: "Kai Portfolio",
         link: "https://github.com/MarciiKai/KaiPortfolio ",
     }
