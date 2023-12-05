@@ -23,7 +23,7 @@ export const Portfolio = () => {
           {dataportfolio.map((data, i) => {
             return (
               <div key={i} className="po_item">
-             <img src={require(`../../assets/images/${data.img}`).default} alt="" />
+              <img src={require(`../../${data.img}`).default} alt="" />
                 <div className="content">
                   <p>{data.description}</p>
                   <a
