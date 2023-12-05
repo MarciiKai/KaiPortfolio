@@ -103,8 +103,8 @@ const dataportfolio = [{
     },
 
     {
-        img:  "assets/images/sales.png",
-        description: "A sales application to rate sales people",
+        img:  "assets/images/salesleads.png",
+        description: "A sales application",
         link: "https://github.com/MarciiKai/SalesLeads",
     },
     {
