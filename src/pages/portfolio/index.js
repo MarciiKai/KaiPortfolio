@@ -27,9 +27,9 @@ export const Portfolio = () => {
                 <div className="content">
                   <p>{data.description}</p>
                   <a
-                    href={data.dataportfolio}
-                    target="_blank"
-                    rel="noopener noreferrer"
+                    href={data.link}
+                    target="https://github.com/MarciiKai?tab=repositories"
+                    rel="https://github.com/MarciiKai?tab=repositories"
                   >
                     View on GitHub
                   </a>

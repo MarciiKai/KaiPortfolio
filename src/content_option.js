@@ -78,7 +78,7 @@ const dataportfolio = [{
     {
         img: "../../assets/images/onegym.png",
         description: "React Js Weather App ",
-        link: "https://github.com/MarciiKai/tours-guide",
+        link: "https://github.com/MarciiKai/tour-guide",
     },
     {
         img: "../../assets/images/onegym.png",
@@ -88,7 +88,7 @@ const dataportfolio = [{
     {
         img: "../../assets/images/onegym.png",
         description: "a Car Rental Website",
-        link: "https://github.com/MarciiKai/WheelsCars",
+        link: "https://github.com/MarciiKai/Wheels-Cars ",
     },
     {
         img: "../../assets/images/onegym.png",
@@ -109,7 +109,7 @@ const dataportfolio = [{
     {
         img: "../../assets/images/onegym.png",
         description: "Kai Portfolio",
-        link: "https://github.com/MarciiKai/KaiPorfolio",
+        link: "https://github.com/MarciiKai/KaiPortfolio ",
     }
 ];
 
